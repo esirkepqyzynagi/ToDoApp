@@ -56,6 +56,9 @@ ToDoApp, kullanıcıların görevlerini kolayca yönetmelerine olanak sağlayan 
  **Veri Tabanı:**
 
   <img src="todoscreen/firebase.png"  width="600"> 
+
+  ## ToDoApp Proje Tanıtımı
+Uygulamanın nasıl çalıştığını görmek için aşağıdaki videoyu izleyebilirsiniz: <br>
 [YouTube Linki](https://youtu.be/yLH91uuMIcw)
 
 ## İletişim
